@@ -1,7 +1,7 @@
 # T_MTA
 
 Publication: 
-Kim, Y.J., Chi, M. Time-aware deep reinforcement learning with multi-temporal abstraction. Appl Intell (2023). https://doi.org/10.1007/s10489-022-04392-5
+Kim, Y.J., Chi, M. Time-aware deep reinforcement learning with multi-temporal abstraction. Applied Intelligence (2023). https://doi.org/10.1007/s10489-022-04392-5
 
 
 Abstract
